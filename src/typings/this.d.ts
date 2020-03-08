@@ -1,0 +1,1 @@
+declare[this] = undefined;
